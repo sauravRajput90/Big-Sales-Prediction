@@ -20,12 +20,12 @@ e) This can be done by addressing the computational aspects in the given large d
 
 
 ## METHODOLOGY
-__Data collection__- The step of every project is to collect the data.  
-__Data preprocessing__-In this step we basically clean our dataset for example checkforany missing value in the dataset , if present then handle the missing values. Inourdataset attributes like Item Weight and Outlet Size had the missing value.  
-__EDA__-This part is considered as one of the most important parts when it comes todataanalysis.To gain important insights of our data one must need to do exploratorydataanalysis.Here in our project we used two libraries i.e. klib and dtale library.   
-__Tested various algorithms__-Then various algorithms like simple LR, xgboost algorithmwere applied in order to find out which algorithm can be used to predict the sales.  
-__Building the model__ -After completing all the previous phases which are mentionedabove, now our dataset is ready for further phases that is to build the model. Once we built the model now it is ready to be used as a predictive model toforecast sales of Big Mart.   
-__Web deployment__-Finally once the prediction can be made for making it moreuserfriendly we have used web development.
+-__Data collection__- The step of every project is to collect the data.  
+-__Data preprocessing__-In this step we basically clean our dataset for example checkforany missing value in the dataset , if present then handle the missing values. Inourdataset attributes like Item Weight and Outlet Size had the missing value.  
+-__EDA__-This part is considered as one of the most important parts when it comes todataanalysis.To gain important insights of our data one must need to do exploratorydataanalysis.Here in our project we used two libraries i.e. klib and dtale library.   
+-__Tested various algorithms__-Then various algorithms like simple LR, xgboost algorithmwere applied in order to find out which algorithm can be used to predict the sales.  
+-__Building the model__ -After completing all the previous phases which are mentionedabove, now our dataset is ready for further phases that is to build the model. Once we built the model now it is ready to be used as a predictive model toforecast sales of Big Mart.   
+-__Web deployment__-Finally once the prediction can be made for making it moreuserfriendly we have used web development.
 
 
 ## DATA SOURCE
