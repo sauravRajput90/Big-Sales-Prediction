@@ -3,7 +3,7 @@
 
 
 # OVERVIEW OF THE PROJECT
-
+Big Sales Prediction is a data-driven project aimed at forecasting future sales trends for a retail business. By leveraging historical sales data, relevant features, and advanced machine learning techniques, this project seeks to provide valuable insights into sales patterns, identify key drivers of sales performance, and enable businesses to make informed decisions regarding inventory management, marketing strategies, and resource allocation.
 
 ## OBJECTIVE
 Objectives of these project are:  
