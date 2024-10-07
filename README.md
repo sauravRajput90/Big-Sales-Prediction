@@ -4,7 +4,6 @@
 
 # OVERVIEW OF THE PROJECT
 
-# **Big Sales Prediction**
 
 ## OBJECTIVE
 Objectives of these project are:  
