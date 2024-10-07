@@ -1,10 +1,6 @@
 # Big Sales Prediction 
 
-NAME- SAURAV KASHYAP  
-COMPANY- Ybi Foundation   
-Credential ID - P23LSJ9AC4MU  
-DOMAIN-Data Analysis  
-DURATION-2 months  
+
 
 # OVERVIEW OF THE PROJECT
 
