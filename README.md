@@ -1,4 +1,4 @@
-# YBI-FOUNDATION - internship project 1 
+# Big Sales Prediction 
 
 NAME- SAURAV KASHYAP  
 COMPANY- Ybi Foundation   
